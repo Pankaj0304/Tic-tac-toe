@@ -1,0 +1,11 @@
+.emoji{
+    font-size: 1.8em;
+    cursor: pointer;
+}
+
+/* @media screen and (max-width: 900px) {
+    .emoji {
+        font-size: 22px;
+    }
+    
+} */

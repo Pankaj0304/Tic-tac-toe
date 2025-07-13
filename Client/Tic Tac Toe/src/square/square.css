@@ -1,0 +1,28 @@
+.square_container {
+  width: 100px;
+  height: 100px;
+  /* background-color: #237888; */
+  background-color: #ccc5b9;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.square_container:not(.not-allowed):hover {
+  background-color: #b7a184;
+}
+
+.square_container.not-allowed,
+.square_container.not-allowed:hover {
+  cursor: not-allowed !important;
+}
+
+
+.circlewin{
+    background-color: #0077ff;
+    border:gold solid 1px;
+  }
+  
+  .crosswin{
+    background-color: #ff1e1ed2;
+    border:gold solid 3px;
+}
