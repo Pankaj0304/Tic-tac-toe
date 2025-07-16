@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "socket.io-client": "^4.8.1"
+    "socket.io-client": "^4.8.1",
+    "react": "...",
+    "react-dom": "...",
+    "react-scripts": "5.0.1"
   }
 }
